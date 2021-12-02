@@ -15,3 +15,13 @@ img.introduction {
   align-self: center;
   
 }
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+.hamilton {
+  background-color: yellow;
+}
+  
